@@ -1,0 +1,9 @@
+#mac os Stuff
+.DS_Store
+
+#Some devs local hidden files in this folder
+local
+
+# xcode noise
+build/*
+xcuserdata
