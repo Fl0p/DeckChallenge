@@ -4,6 +4,8 @@ This is Coding Challenge for Swift.
 Your task is to change one line of code to get x1.5 performance improvement
 ---
 
+Boost perfomance of ```func proc()``` (Button [Process])
+
 Tested on 1000000 deck size
 
 
